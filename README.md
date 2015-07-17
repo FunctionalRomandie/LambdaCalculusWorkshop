@@ -1,5 +1,5 @@
 ## Workshop on Lambda Calculus
-On the 16 July 2015, we run a worshop on the Lambda Calculus at FunctionalRomandie.
+On the 16 July 2015, we run a worshop on the Lambda Calculus at FunctionalRomandie (http://www.meetup.com/Functional-Romandie/events/220005812/).
 
 We were able to walk thru the whole calculus even if were not able to implemente it entierely, I think we did a pretty good job and understanding the core expressions!
 
